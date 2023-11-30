@@ -1,6 +1,6 @@
 # Air Pollution Monitoring
 
-Previously, I would like to express my gratitude to my groupmates who have built the air pollution monitoring hardware, namely Gayantri Yonga, Aldrian Bachtiar, and Raihan Ananda. Additionally, I would also like to thank my friend who has assisted me in completing this project, [Abdurahman Basyah](https://github.com/AbdurahmanBasyah). <br />
+Previously, I would like to express my gratitude to my groupmates who have built the air pollution monitoring hardware, namely [Gayantri Yonga](https://www.linkedin.com/in/gayatri-yonga/), [Aldrian Bachtiar](https://www.linkedin.com/in/aldrian-bachtiar-tsani/), and [Raihan Ananda](https://www.linkedin.com/in/raihan-ananda-alfani-9a2568221/?originalSubdomain=id). Additionally, I would also like to thank my friend who has assisted me in completing this project, [Abdurahman Basyah](https://github.com/AbdurahmanBasyah). <br />
 
 Here is a brief explanation of the project that I have created. <br />
 ![Alt text](https://github.com/alfathlathif/air-pollution-monitoring-project/blob/master/Project%20Design%20Diagram.png) <br />
