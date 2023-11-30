@@ -16,8 +16,10 @@ ESP32 is also connected to a ventilation servo. The servo functions to open and 
 ESP32 also has a program that can send warning messages via WhatsApp. These messages will be sent when the pollutant values are in the hazardous category. <br />
 
 This project is a college assignment that I have worked on. The following are some documents that explain the details of the assignment: <br />
-- Design Document 
-- Implementation Document
+- Design Document <br />
+  https://drive.google.com/file/d/1Z9nYMR-jozmBLrAEL3DEXXDbXiUpJNhB/view?usp=sharing
+- Implementation Document <br />
+  https://drive.google.com/file/d/12fQeDjgy2fvsnaeg9NbP_JARRoVMzfFi/view?usp=sharing
 
 The website can be accessed via the link below, but it only displays the website interface. Some services have been discontinued due to budget constraints. <br />
 https://capstone-teti.vercel.app/
