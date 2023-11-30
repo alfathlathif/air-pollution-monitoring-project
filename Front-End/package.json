@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@ionic/core": "^7.5.4",
+    "aws-iot-device-sdk-v2": "^1.17.0",
+    "framer-motion": "^10.16.4",
+    "ionicons": "^7.2.1",
+    "react-chartjs-2": "^5.2.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2"
+  }
+}
